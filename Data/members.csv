@@ -1,0 +1,4 @@
+MemberID,Name,PasswordHash,Email,JoinDate,Role
+121,Nidit Visaveliya,$2b$12$1YM7DlHbpGwgPFyIYEbsOe.KUHW3qGI11ai0obx18omZH4K4hf8hu,criticalgaming2611@gmail.com,2025-05-17,member
+123,alia bhatt,$2b$12$KGJ/xu5HQDFLm/TIJzSL.OMdZVz80SzDWBQ6EkqcPHvTObR5IBHr6,alia@mm.com,2025-05-17,librarian
+125,Khushi Visaveliya,$2b$12$XvpgKV8fEInXapj5USfHW.cIBQ9Iw4B3OQe4fjkojOZHv79729UF.,khushi@ab.com,2025-05-17,member
