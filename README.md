@@ -58,4 +58,13 @@ Library\_Management\_System/
   python -m venv venv
   venv\Scripts\activate -- for windows
   source venv/bin/activate -- for ios/linux
-3.
+3. install the dependences 
+  pip install bcrypt
+  pip install pytest
+  pip install python-dotenv
+  pip install sendgrid
+4. start project using 
+  python main.py --data-dir ./data
+5. test case -- how to run tests
+   python -m pytest tests/test_issue_return.py
+
